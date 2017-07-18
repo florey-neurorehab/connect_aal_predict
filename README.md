@@ -11,3 +11,5 @@ Dimensionality reduction.
 Prediction.
 ...
 PROFIT!
+
+<center><img src="https://github.com/florey-neurorehab/connect_aal_predict/blob/master/corr_distance.png"></center>
