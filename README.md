@@ -4,16 +4,11 @@ A loose collection of scripts that take correlation matrices from the preprocess
 
 TO DO: 
 
-Weight correlation vectors by distance (corr * dist) on assumption that strongly correlated long distance connections are "important".
-
-Stich clinical information into the vector.
-
-Dimensionality reduction.
-
-Prediction.
-
-...
-
-PROFIT!
+* Weight correlation vectors by distance (corr * dist) on assumption that strongly correlated long distance connections are "important".
+* Stich clinical information into the vector.
+* Dimensionality reduction.
+* Prediction.
+* ...
+* PROFIT!
 
 <center><img src="https://github.com/florey-neurorehab/connect_aal_predict/blob/master/corr_distance.png"></center>
